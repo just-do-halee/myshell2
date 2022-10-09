@@ -3,7 +3,7 @@
 - This is my custom environment building any program.
 
 ```shell
-curl -Ss  | sh
+curl -Ss https://raw.githubusercontent.com/just-do-halee/myshell2/main/install.sh | sh
 ```
 
 ## Units
