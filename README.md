@@ -13,6 +13,8 @@ curl -Ss https://raw.githubusercontent.com/just-do-halee/myshell2/main/install.s
 /PackerInstall
 /PackerSync
 /LspInstall rust
+/CopilotAuth
+/WakaTimeApiKey
 ```
 
 ---
@@ -28,3 +30,5 @@ curl -Ss https://raw.githubusercontent.com/just-do-halee/myshell2/main/install.s
 7. zoxide
 8. lunarvim
 9. my lvim.config
+10. copilot
+11. wakatime
