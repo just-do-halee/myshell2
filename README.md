@@ -6,6 +6,17 @@
 curl -Ss https://raw.githubusercontent.com/just-do-halee/myshell2/main/install.sh | sh
 ```
 
+---
+
+###### in ~/.config/lvim :
+```shell
+/PackerInstall
+/PackerSync
+/LspInstall rust
+```
+
+---
+
 ## Units
 
 1. brew
